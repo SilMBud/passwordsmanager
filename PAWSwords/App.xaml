@@ -1,0 +1,24 @@
+﻿<Application x:Class="PAWSwords.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PAWSwords"
+             xmlns:style="clr-namespace:PAWSwords.Style">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="Bootstrapper" />
+                    <style:CustomBooleanToVisibilityConverter
+                        x:Key="BoolToVisConverter" 
+                        True="Visible" 
+                        False="Collapsed" />
+                    <style:CustomBooleanToVisibilityConverter
+                        x:Key="InverseBoolToVisConverter" 
+                        True="Collapsed" 
+                        False="Visible" />
+                </ResourceDictionary>
+                <ResourceDictionary Source="Style/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

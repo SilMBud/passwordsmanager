@@ -1,0 +1,249 @@
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.csprojAssemblyReference.cache
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\Passwords\PasswordsView.baml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\ShellView.baml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\Style\Styles.baml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\Loading\LoadingView.g.cs
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\Passwords\PasswordsView.g.cs
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\ShellView.g.cs
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\App.g.cs
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.cache
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.lref
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\App.baml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\Loading\LoadingView.baml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.g.resources
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.csproj.GenerateResource.cache
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\PAWSwords.exe.config
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\PAWSwords.exe
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\PAWSwords.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Autofac.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.Autofac.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\PAWSwords.Core.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\PAWSwords.Core.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Autofac.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.Properties.Resources.resources
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.csproj.CoreCompileInputs.cache
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.csproj.CopyComplete
+C:\Users\fleimas\Source\Repos\pawswords\PAWSwords\PAWSwords\obj\Debug\PAWSwords.exe
+C:\Users\fleimas\Source\Repos\pawswords\PAWSWords\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\fleimas\Source\Repos\pawswords\PAWSWords\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\fleimas\Source\Repos\pawswords\PAWSWords\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe.config
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Autofac.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Autofac.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Autofac.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csprojAssemblyReference.cache
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\ShellView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Style\Styles.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsConductorView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\ShellView.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\App.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.cache
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.lref
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\App.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsConductorView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.baml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.g.resources
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.Properties.Resources.resources
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.GenerateResource.cache
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CoreCompileInputs.cache
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CopyComplete
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.exe
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe.config
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Autofac.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Autofac.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Autofac.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csprojAssemblyReference.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\ShellView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Style\Styles.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\ShellView.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\App.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.lref
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\App.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.baml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.g.resources
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.Properties.Resources.resources
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.GenerateResource.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CoreCompileInputs.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CopyComplete
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.exe
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csprojAssemblyReference.cache
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\ShellView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Style\Styles.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordsView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\ShellView.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\App.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.cache
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.lref
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.exe
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe.config
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.exe
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Autofac.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Autofac.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\PAWSwords.Core.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Autofac.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\App.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\Passwords\PasswordView.baml
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.g.resources
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.Properties.Resources.resources
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.GenerateResource.cache
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CoreCompileInputs.cache
+C:\Users\fleimas\Downloads\eiknaxui\PawswordsManager\PAWSwords\obj\Debug\PAWSwords.csproj.CopyComplete
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\bin\Debug\PAWSwords.exe.config
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\bin\Debug\PAWSwords.exe
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\bin\Debug\PAWSwords.pdb
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.csprojAssemblyReference.cache
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\PasswordsView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\PasswordView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\ShellView.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Style\Styles.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\MasterPassword\CreateMasterPasswordView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\MasterPassword\EnterMasterPasswordView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\CreatePasswordView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\PasswordsView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\Passwords\PasswordView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\ShellView.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\App.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.cache
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords_MarkupCompile.lref
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\App.baml
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.g.resources
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.Properties.Resources.resources
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.csproj.GenerateResource.cache
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.csproj.CoreCompileInputs.cache
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.csproj.CopyComplete
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.exe
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords\obj\Debug\PAWSwords.pdb

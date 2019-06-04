@@ -1,0 +1,43 @@
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\PAWSwords.Core.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\PAWSwords.Core.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CoreCompileInputs.cache
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CopyComplete
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.dll
+C:\Users\fleimas\Source\Repos\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csprojAssemblyReference.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CoreCompileInputs.cache
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\PAWSwords.Core.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\PAWSwords.Core.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Puddi\Downloads\PasswordManager v3\PawswordsManager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CopyComplete
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\bin\Debug\PAWSwords.Core.dll
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\bin\Debug\PAWSwords.Core.pdb
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CoreCompileInputs.cache
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.csproj.CopyComplete
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.dll
+C:\Users\Puddi\Documents\GitHub\passwordsmanager\PAWSwords.Core2\obj\Debug\PAWSwords.Core.pdb

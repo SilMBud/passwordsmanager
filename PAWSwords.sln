@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAWSwords", "PAWSwords\PAWSwords.csproj", "{51D78320-5F81-4EF7-974E-F1A0E055EAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAWSwords.Core", "PAWSwords.Core2\PAWSwords.Core.csproj", "{04C08A8C-3AC7-4329-BC35-77E41479F359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D78320-5F81-4EF7-974E-F1A0E055EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D78320-5F81-4EF7-974E-F1A0E055EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D78320-5F81-4EF7-974E-F1A0E055EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D78320-5F81-4EF7-974E-F1A0E055EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C08A8C-3AC7-4329-BC35-77E41479F359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C08A8C-3AC7-4329-BC35-77E41479F359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C08A8C-3AC7-4329-BC35-77E41479F359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C08A8C-3AC7-4329-BC35-77E41479F359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC177EDE-74B1-4FD3-B184-37DB3FA4BFB8}
+	EndGlobalSection
+EndGlobal
